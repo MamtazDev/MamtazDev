@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mamtaz
-- 👀 I’m interested in Web and Android App Development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
