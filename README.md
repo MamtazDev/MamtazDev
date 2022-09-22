@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mamtaz
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and Android App Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
